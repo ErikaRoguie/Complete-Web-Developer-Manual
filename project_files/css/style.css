@@ -1,0 +1,23 @@
+/* Selector*/
+body{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+
+h2{
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255,176,170,0.5);
+    cursor: pointer;
+}
+p{
+    color: plum;
+}
+p{
+    color: green;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+}
