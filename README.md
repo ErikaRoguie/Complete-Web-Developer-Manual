@@ -1,4 +1,3 @@
-# Erika-Lee-Sanders
 # Complete-Web-Developer-Manual
 
 
